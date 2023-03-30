@@ -21,3 +21,4 @@ for i in range(3):
     random_chars = random.choice(generate_special_char())
     pass_generated = pass_struc + random_chars
     print(pass_generated, end="")
+
