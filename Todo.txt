@@ -4,3 +4,4 @@ Create a script that generate a strong password. This password must contain the 
 2. Lowercase
 3. special character
 4. Eight (8) character long
+
