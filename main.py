@@ -9,7 +9,7 @@ def generate_numbers():
     nums = string.digits
     return nums
 
-#generate special Characters
+#generating special Characters
 def generate_special_char():
     chars = string.punctuation
     return chars
